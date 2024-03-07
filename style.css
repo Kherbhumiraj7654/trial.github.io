@@ -1,0 +1,74 @@
+header {
+    background-color: white;
+}
+
+nav {
+    background-color: white;
+}
+
+nav img {
+    width: 5%;
+    height: 5%;
+    float: inline-start;
+}
+
+
+
+
+
+#Navlinks1 {
+    width: 45%;
+    background-color: white;
+    float: left;
+}
+
+#Navlinks2 {
+    width: 25%;
+    background-color: white;
+    float: inline-end;
+}
+
+.firstnav {
+    float: left;
+    padding: 1% 5%;
+    color: black;
+}
+
+.secnav {
+    float: right;
+    padding: 1% 5%;
+    color: black;
+}
+#login{
+    align-items: flex-start;
+    background-color: gray;
+    padding: 1%;
+}
+#signup{
+    float: left;
+    background-color: red;
+    padding: 1%;
+    margin-right: 8%;
+}
+#secnav{
+    float: inline-end;
+    width: 15%;
+
+}
+main{
+    clear: both;
+    margin: 10%;
+    padding-top: 10%;
+}
+
+#imgmaindiv{
+    
+    width: 30%;
+    height: auto;
+    padding: 0% 1%;
+}
+footer{
+    background-color: brown;
+    text-align: center;
+
+}
